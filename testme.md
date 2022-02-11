@@ -1,4 +1,4 @@
-subdomain.domain.extension 
+https://subdomain.domain.extension 
 
 
-subdomainXXX.domain.extension with
+https://subdomainXXX.domain.extension with
