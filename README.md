@@ -1,4 +1,4 @@
 # RazorPagesMovie
 Asp.Net Project
 
-subdomain.domain.extension 
+https://subdomain.domain.extension 
